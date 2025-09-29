@@ -1,0 +1,24 @@
+{
+  "licenses": [
+    {
+      "key": "NO-GTR-WIN",
+      "maxActivations": 1,
+      "expiryDate": "2026-01-01"
+    },
+    {
+      "key": "PRO-2024-222", 
+      "maxActivations": 1,
+      "expiryDate": "2024-12-31"
+    },
+    {
+      "key": "ULTIMATE-2024-333",
+      "maxActivations": 1,
+      "expiryDate": "2025-12-31"
+    },
+    {
+      "key": "TEST-KEY-999",
+      "maxActivations": 1,
+      "expiryDate": "2024-12-31"
+    }
+  ]
+}
